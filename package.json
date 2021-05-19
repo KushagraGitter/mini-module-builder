@@ -1,0 +1,19 @@
+{
+  "name": "minimodulebuilder",
+  "version": "1.0.0",
+  "description": "demo to create mini JavaScript bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kushagra",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.14.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
